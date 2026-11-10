@@ -1,0 +1,11 @@
+{
+  "title": "Direito Imobiliário",
+  "description": "Apresente serviços de direito imobiliário, explique como funciona o atendimento e responda dúvidas para ajudar clientes a encontrar orientação jurídica confiável.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
